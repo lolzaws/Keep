@@ -8,3 +8,4 @@ Apesar do marketing de encriptação, ele ainda não tem essa função.
 
 Por enquanto é só. Mas no futuro haverá mais coisas legais :)
 
+
